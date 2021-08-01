@@ -1,4 +1,8 @@
 * {
   color: #026A00;
   font-family: 'Solway', serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* background-color: #F4F5EF; */
 }

@@ -5,20 +5,20 @@ import './Navbar.css';
 function Navbar() {
   return (
     <nav className="navbar">
+      <div className="navbar-logo">
+        <Link className="navbar-logo-link navbar-link">
+          <i class="fas fa-hourglass-half"></i>
+           TakeABreak
+        </Link>
+      </div>
       <ul className="navbar-menu">
         <li>
-          <Link className="navbar-logo navbar-link">
-            <i class="fas fa-hourglass-half"></i>
-            TakeABreak
-          </Link>
-        </li>
-        <li>
-          <Link to="/" className="navbar-link">
+          <Link to="/" className="navbar-link navbar-link-right">
             Home
           </Link>
         </li>
         <li>
-          <Link to="/about" className="navbar-link">
+          <Link to="/about" className="navbar-link navbar-link-right">
             About
           </Link>
         </li>
