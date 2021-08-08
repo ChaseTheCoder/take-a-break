@@ -22,7 +22,7 @@
 
 .navbar-logo {
   float: left;
-  font-size: 35px;
+  font-size: 3vw;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -36,9 +36,15 @@
 
 .navbar-link-text {
   color: black;
-  font-size: 25px;
+  font-size: 2vw;
 }
 
 .navbar-link-text:hover {
   color: rgb(73, 71, 71);
+}
+
+@media (max-width: 800px) {
+  .navbar-link {
+    padding: 0 20px 0 0;
+  }
 }
