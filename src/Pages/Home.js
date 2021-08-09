@@ -7,8 +7,8 @@ function Home() {
       <div className="home-left">
         <div className="home-text">
           <h1 className="home-text-title">Identifying feelings leads to happy feelings.</h1>
-          <p className="home-text-p"></p>
-          <p className="home-text-p-green"></p>
+          <p className="home-text-p">Learning to identify your feelings daily will help with communicating those feelings.  Students can check in with this app when they have uncomfortable feelings.</p>
+          <p className="home-text-p-green">No signup required!</p>
         </div>
         <button>Start</button>
       </div>

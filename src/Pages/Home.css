@@ -1,3 +1,46 @@
+.home {
+  width: 100%;
+  padding: 80px;
+}
+
+.home-left,
+.home-right {
+  float: left;
+}
+
+.home-left {
+  width: 60%;
+}
+
+.home-text h1,
+.home-text p {
+  padding: 0 0 20px 0;
+}
+
+.home-text-title {
+  font-size: 4vw;
+}
+
+.home-text p {
+  font-size: 2vw;
+  font-weight: 300;
+}
+
+.home-text-p {
+  color: black;
+}
+
+.home-right {
+  width: 40%;
+}
+
+.home-right i {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  font-size: 20vw;
+}
+
 .home-text {
   font-size: 15px;
 }
