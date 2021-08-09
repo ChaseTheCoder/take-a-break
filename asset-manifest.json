@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/take-a-break/static/css/main.d6572178.chunk.css",
-    "main.js": "/take-a-break/static/js/main.266e04e1.chunk.js",
-    "main.js.map": "/take-a-break/static/js/main.266e04e1.chunk.js.map",
+    "main.css": "/take-a-break/static/css/main.70904edd.chunk.css",
+    "main.js": "/take-a-break/static/js/main.f66c1485.chunk.js",
+    "main.js.map": "/take-a-break/static/js/main.f66c1485.chunk.js.map",
     "runtime-main.js": "/take-a-break/static/js/runtime-main.a314c79f.js",
     "runtime-main.js.map": "/take-a-break/static/js/runtime-main.a314c79f.js.map",
-    "static/js/2.03fc3511.chunk.js": "/take-a-break/static/js/2.03fc3511.chunk.js",
-    "static/js/2.03fc3511.chunk.js.map": "/take-a-break/static/js/2.03fc3511.chunk.js.map",
+    "static/js/2.2da96d64.chunk.js": "/take-a-break/static/js/2.2da96d64.chunk.js",
+    "static/js/2.2da96d64.chunk.js.map": "/take-a-break/static/js/2.2da96d64.chunk.js.map",
     "index.html": "/take-a-break/index.html",
-    "static/css/main.d6572178.chunk.css.map": "/take-a-break/static/css/main.d6572178.chunk.css.map",
-    "static/js/2.03fc3511.chunk.js.LICENSE.txt": "/take-a-break/static/js/2.03fc3511.chunk.js.LICENSE.txt"
+    "static/css/main.70904edd.chunk.css.map": "/take-a-break/static/css/main.70904edd.chunk.css.map",
+    "static/js/2.2da96d64.chunk.js.LICENSE.txt": "/take-a-break/static/js/2.2da96d64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a314c79f.js",
-    "static/js/2.03fc3511.chunk.js",
-    "static/css/main.d6572178.chunk.css",
-    "static/js/main.266e04e1.chunk.js"
+    "static/js/2.2da96d64.chunk.js",
+    "static/css/main.70904edd.chunk.css",
+    "static/js/main.f66c1485.chunk.js"
   ]
 }
