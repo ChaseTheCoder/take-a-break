@@ -6,7 +6,7 @@
   padding: 0px 80px;
   position: fixed;
   top: 0;
-  background-color: transparent;
+  background-color: rgb(244, 245, 240, 0.9);
 }
 
 .navbar-menu {
@@ -21,6 +21,7 @@
 .navbar-link-text, 
 .navbar-logo-text {
   text-decoration: none;
+  background-color: transparent;
 }
 
 .navbar-logo {
@@ -35,6 +36,7 @@
 .navbar-link {
   float: left;
   padding: 0 100px 0 0;
+  background-color: transparent;
 }
 
 .navbar-link-text {
