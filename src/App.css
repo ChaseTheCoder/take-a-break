@@ -5,4 +5,9 @@
   padding: 0px;
   box-sizing: border-box;
   background-color: #F4F5EF;
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 75px;
 }
